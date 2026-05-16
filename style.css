@@ -163,6 +163,7 @@
       text-transform: uppercase;
       font-size: var(--font-size-topnav);
       color: var(--color-text-light);
+      
       &:hover {
         text-decoration: underline;
         text-decoration-thickness: 2px;
@@ -192,3 +193,4 @@
     }
   }
 }
+Thats where the free viewing ends.. ill finish uplater when i learn more about website design and development
